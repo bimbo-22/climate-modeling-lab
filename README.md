@@ -36,6 +36,11 @@ uv sync
 └── uv.lock
 ```
 
+### The path an the vsc where our data is
+'''
+/gpfs/data/fs72044/icon06/experiments/LessOzone_Real_V1
+'''
+
 ### TASKS FOR ANALYSIS (12.5.2026)
 * Create difference-plots that visualize the deviations between our run & the slabctrl
 * Variables we should check – global: 
