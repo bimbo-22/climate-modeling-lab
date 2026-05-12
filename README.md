@@ -18,8 +18,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 uv sync
 ```
 
-### 
-— TASKS FOR ANALYSIS (12.5.2026)
+### TASKS FOR ANALYSIS (12.5.2026)
 * Create difference-plots that visualize the deviations between our run & the slabctrl
 * Variables we should check – global: 
     * 2m Temperature above ground (2D)
@@ -30,5 +29,6 @@ uv sync
     * zonal wind (3D) – For the Jetstream 
 * Make shure to run a statistical test on the significance of changes (p < 0.05)
 * Compare the same months (Jan, Apr, Jul, Oct) for every year -> make GIFs out of that to visualize the evolution
-    
-— TIMELINE FOR ANALYSIS
+
+ 
+### TIMELINE FOR ANALYSIS
