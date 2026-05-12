@@ -18,6 +18,24 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 uv sync
 ```
 
+
+### Here's our projedct structure
+
+```bash
+.
+├── climate_model
+├── main.py
+├── msc-climate-modeling-lab-s2026-code4students
+│   ├── README.md
+│   └── runs
+│       └── amip
+├── Ozone-manipulator.ipynb
+├── pyproject.toml
+├── README.md
+├── script_s2026.pdf
+└── uv.lock
+```
+
 ### TASKS FOR ANALYSIS (12.5.2026)
 * Create difference-plots that visualize the deviations between our run & the slabctrl
 * Variables we should check – global: 
