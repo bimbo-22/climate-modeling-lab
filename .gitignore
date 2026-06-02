@@ -10,3 +10,6 @@ wheels/
 .venv
 .python-version
 msc-climate-modeling-lab-s2026-code4students/
+LessOzone_2000-2005_2d.nc
+LessOzone_2000-2005_3d.nc
+.DS_Store
