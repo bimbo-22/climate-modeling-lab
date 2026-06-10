@@ -12,4 +12,9 @@ wheels/
 msc-climate-modeling-lab-s2026-code4students/
 LessOzone_2000-2005_2d.nc
 LessOzone_2000-2005_3d.nc
+LessOzone_Real_2D_2000-2035.nc
+LessOzone_Real_3D_2000-2035.nc
 .DS_Store
+slabctr_2D_2000-2035.nc
+slabctr_3D_REGRID_2000-2035.nc
+icon_grid_G.nc
