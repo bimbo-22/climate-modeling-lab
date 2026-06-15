@@ -24,15 +24,22 @@ uv sync
 ```bash
 .
 ├── climate_model
+├── icon_grid_G.nc
+├── LessOzone_2000-2005_2d.nc
+├── LessOzone_2000-2005_3d.nc
+├── LessOzone_Real_2D_2000-2035.nc
+├── LessOzone_Real_3D_2000-2035.nc
 ├── main.py
-├── msc-climate-modeling-lab-s2026-code4students
-│   ├── README.md
-│   └── runs
-│       └── amip
 ├── Ozone-manipulator.ipynb
+├── plots
+│   ....
+├── PlottingRoutine_Global.ipynb
+├── PlottingRoutine_VerticalProfile.ipynb
 ├── pyproject.toml
 ├── README.md
 ├── script_s2026.pdf
+├── slabctr_2D_2000-2035.nc
+├── slabctr_3D_REGRID_2000-2035.nc
 └── uv.lock
 ```
 
@@ -59,5 +66,5 @@ uv sync
 * Make shure to run a statistical test on the significance of changes (p < 0.05)
 * Compare the same months (Jan, Apr, Jul, Oct) for every year -> make GIFs out of that to visualize the evolution
 
- 
+
 ### TIMELINE FOR ANALYSIS
